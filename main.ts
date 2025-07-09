@@ -1,1 +1,1 @@
-
+basic.showString("Du Dummy")
