@@ -1,1 +1,1 @@
-basic.showString("Du Dummy")
+basic.showString("20:02 Tab makecode.calliope.cc")

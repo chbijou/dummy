@@ -1,2 +1,1 @@
-print("hallo'")
-basic.pause(1000)
+basic.show_string("Du Dummy")
